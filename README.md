@@ -5,3 +5,6 @@ https://www.kaggle.com/datasets/astronautelvis/kc-house-data
 
 JSON file was obtained from the King County GIS Datahub.
 https://kingcounty.gov/services/gis/GISData.aspx
+
+Link to Tableau Storyboard
+https://public.tableau.com/app/profile/kenneth.holcomb/viz/KingCountyRealEstate_16778753543380/Story1?publish=yes
